@@ -16,7 +16,7 @@
     },
     "scripts": {
         "predeploy": "npm run build",
-  "deploy": "gh-pages -d build -r https://github.com/muhammad-farhan512/TextUtills-React.git",
+  "deploy": "gh-pages -d build -r https://github.com/your-username/your-repo.git",
         "start": "react-scripts start",
         "build": "react-scripts build",
         "test": "react-scripts test",
